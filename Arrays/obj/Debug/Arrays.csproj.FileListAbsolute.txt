@@ -1,0 +1,16 @@
+D:\Projects\Dot Net\Data Structures\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Projects\Dot Net\Data Structures\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Projects\Dot Net\Data Structures\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Projects\Dot Net\Data Structures\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Projects\Dot Net\Data Structures\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\Projects\Dot Net\Data Structures\DataStructures\Arrays\bin\Debug\Arrays.exe.config
+D:\Projects\Dot Net\Data Structures\DataStructures\Arrays\bin\Debug\Arrays.exe
+D:\Projects\Dot Net\Data Structures\DataStructures\Arrays\bin\Debug\Arrays.pdb
+D:\Projects\Dot Net\Data Structures\DataStructures\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\Arrays\obj\Debug\Arrays.exe
+D:\Projects\Dot Net\Data Structures\DataStructures\Arrays\obj\Debug\Arrays.pdb

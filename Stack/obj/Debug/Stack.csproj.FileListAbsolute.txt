@@ -1,0 +1,8 @@
+D:\Projects\Dot Net\Data Structures\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\Stack\Stack\bin\Debug\Stack.exe.config
+D:\Projects\Dot Net\Data Structures\Stack\Stack\bin\Debug\Stack.exe
+D:\Projects\Dot Net\Data Structures\Stack\Stack\bin\Debug\Stack.pdb
+D:\Projects\Dot Net\Data Structures\Stack\Stack\obj\Debug\Stack.exe
+D:\Projects\Dot Net\Data Structures\Stack\Stack\obj\Debug\Stack.pdb

@@ -1,0 +1,8 @@
+D:\Projects\Dot Net\Data Structures\LinkList\LinkList\bin\Debug\LinkList.exe.config
+D:\Projects\Dot Net\Data Structures\LinkList\LinkList\bin\Debug\LinkList.exe
+D:\Projects\Dot Net\Data Structures\LinkList\LinkList\bin\Debug\LinkList.pdb
+D:\Projects\Dot Net\Data Structures\LinkList\LinkList\obj\Debug\LinkList.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\LinkList\LinkList\obj\Debug\LinkList.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\LinkList\LinkList\obj\Debug\LinkList.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\LinkList\LinkList\obj\Debug\LinkList.exe
+D:\Projects\Dot Net\Data Structures\LinkList\LinkList\obj\Debug\LinkList.pdb

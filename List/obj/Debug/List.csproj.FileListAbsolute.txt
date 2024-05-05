@@ -1,0 +1,8 @@
+D:\Projects\Dot Net\Data Structures\List\List\bin\Debug\List.exe.config
+D:\Projects\Dot Net\Data Structures\List\List\bin\Debug\List.exe
+D:\Projects\Dot Net\Data Structures\List\List\bin\Debug\List.pdb
+D:\Projects\Dot Net\Data Structures\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\List\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\List\List\obj\Debug\List.exe
+D:\Projects\Dot Net\Data Structures\List\List\obj\Debug\List.pdb

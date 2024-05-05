@@ -1,0 +1,16 @@
+D:\Projects\Dot Net\Data Structures\BracketChecker\BracketChecker\bin\Debug\BracketChecker.exe.config
+D:\Projects\Dot Net\Data Structures\BracketChecker\BracketChecker\bin\Debug\BracketChecker.exe
+D:\Projects\Dot Net\Data Structures\BracketChecker\BracketChecker\bin\Debug\BracketChecker.pdb
+D:\Projects\Dot Net\Data Structures\BracketChecker\BracketChecker\obj\Debug\BracketChecker.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\BracketChecker\BracketChecker\obj\Debug\BracketChecker.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\BracketChecker\BracketChecker\obj\Debug\BracketChecker.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\BracketChecker\BracketChecker\obj\Debug\BracketChecker.exe
+D:\Projects\Dot Net\Data Structures\BracketChecker\BracketChecker\obj\Debug\BracketChecker.pdb
+D:\Projects\Dot Net\Data Structures\DataStructures\BracketChecker\bin\Debug\BracketChecker.exe.config
+D:\Projects\Dot Net\Data Structures\DataStructures\BracketChecker\bin\Debug\BracketChecker.exe
+D:\Projects\Dot Net\Data Structures\DataStructures\BracketChecker\bin\Debug\BracketChecker.pdb
+D:\Projects\Dot Net\Data Structures\DataStructures\BracketChecker\obj\Debug\BracketChecker.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\BracketChecker\obj\Debug\BracketChecker.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\BracketChecker\obj\Debug\BracketChecker.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\BracketChecker\obj\Debug\BracketChecker.exe
+D:\Projects\Dot Net\Data Structures\DataStructures\BracketChecker\obj\Debug\BracketChecker.pdb

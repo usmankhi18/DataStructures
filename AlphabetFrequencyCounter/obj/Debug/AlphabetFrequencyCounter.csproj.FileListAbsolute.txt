@@ -1,0 +1,8 @@
+D:\Projects\Dot Net\Data Structures\DataStructures\AlphabetFrequencyCounter\bin\Debug\AlphabetFrequencyCounter.exe.config
+D:\Projects\Dot Net\Data Structures\DataStructures\AlphabetFrequencyCounter\bin\Debug\AlphabetFrequencyCounter.exe
+D:\Projects\Dot Net\Data Structures\DataStructures\AlphabetFrequencyCounter\bin\Debug\AlphabetFrequencyCounter.pdb
+D:\Projects\Dot Net\Data Structures\DataStructures\AlphabetFrequencyCounter\obj\Debug\AlphabetFrequencyCounter.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\AlphabetFrequencyCounter\obj\Debug\AlphabetFrequencyCounter.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\AlphabetFrequencyCounter\obj\Debug\AlphabetFrequencyCounter.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\DataStructures\AlphabetFrequencyCounter\obj\Debug\AlphabetFrequencyCounter.exe
+D:\Projects\Dot Net\Data Structures\DataStructures\AlphabetFrequencyCounter\obj\Debug\AlphabetFrequencyCounter.pdb

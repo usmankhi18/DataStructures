@@ -1,0 +1,8 @@
+D:\Projects\Dot Net\Data Structures\SearchingAlgorithms\SearchingAlgorithms\obj\Debug\SearchingAlgorithms.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Data Structures\SearchingAlgorithms\SearchingAlgorithms\obj\Debug\SearchingAlgorithms.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dot Net\Data Structures\SearchingAlgorithms\SearchingAlgorithms\obj\Debug\SearchingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Data Structures\SearchingAlgorithms\SearchingAlgorithms\bin\Debug\SearchingAlgorithms.exe.config
+D:\Projects\Dot Net\Data Structures\SearchingAlgorithms\SearchingAlgorithms\bin\Debug\SearchingAlgorithms.exe
+D:\Projects\Dot Net\Data Structures\SearchingAlgorithms\SearchingAlgorithms\bin\Debug\SearchingAlgorithms.pdb
+D:\Projects\Dot Net\Data Structures\SearchingAlgorithms\SearchingAlgorithms\obj\Debug\SearchingAlgorithms.exe
+D:\Projects\Dot Net\Data Structures\SearchingAlgorithms\SearchingAlgorithms\obj\Debug\SearchingAlgorithms.pdb
