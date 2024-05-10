@@ -31,7 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{CD16F9A1-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTraversal", "Tree\TreeTraversal\TreeTraversal.csproj", "{2C1E9A36-D091-40DB-9505-1042CC9E7D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{B2018273-1C50-43F3-802D-37A247DCF042}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "Tree\BinarySearchTree\BinarySearchTree.csproj", "{B2018273-1C50-43F3-802D-37A247DCF042}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
