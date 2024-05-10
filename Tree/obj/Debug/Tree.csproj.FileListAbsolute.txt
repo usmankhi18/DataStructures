@@ -1,8 +1,0 @@
-D:\Projects\Dot Net\Data Structures\DataStructures\Tree\bin\Debug\Tree.exe.config
-D:\Projects\Dot Net\Data Structures\DataStructures\Tree\bin\Debug\Tree.exe
-D:\Projects\Dot Net\Data Structures\DataStructures\Tree\bin\Debug\Tree.pdb
-D:\Projects\Dot Net\Data Structures\DataStructures\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
-D:\Projects\Dot Net\Data Structures\DataStructures\Tree\obj\Debug\Tree.csproj.SuggestedBindingRedirects.cache
-D:\Projects\Dot Net\Data Structures\DataStructures\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
-D:\Projects\Dot Net\Data Structures\DataStructures\Tree\obj\Debug\Tree.exe
-D:\Projects\Dot Net\Data Structures\DataStructures\Tree\obj\Debug\Tree.pdb

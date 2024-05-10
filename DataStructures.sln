@@ -27,7 +27,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "Sortin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{028FAB14-B908-4459-9959-AEA77A4E7848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{E4FBFEAF-5F7E-4506-816B-DDDBFC62D01D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{CD16F9A1-CCEF-4A04-868E-B3CC72953192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTraversal", "Tree\TreeTraversal\TreeTraversal.csproj", "{2C1E9A36-D091-40DB-9505-1042CC9E7D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{B2018273-1C50-43F3-802D-37A247DCF042}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,13 +87,21 @@ Global
 		{028FAB14-B908-4459-9959-AEA77A4E7848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{028FAB14-B908-4459-9959-AEA77A4E7848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{028FAB14-B908-4459-9959-AEA77A4E7848}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E4FBFEAF-5F7E-4506-816B-DDDBFC62D01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4FBFEAF-5F7E-4506-816B-DDDBFC62D01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4FBFEAF-5F7E-4506-816B-DDDBFC62D01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4FBFEAF-5F7E-4506-816B-DDDBFC62D01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1E9A36-D091-40DB-9505-1042CC9E7D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1E9A36-D091-40DB-9505-1042CC9E7D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1E9A36-D091-40DB-9505-1042CC9E7D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1E9A36-D091-40DB-9505-1042CC9E7D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2018273-1C50-43F3-802D-37A247DCF042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2018273-1C50-43F3-802D-37A247DCF042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2018273-1C50-43F3-802D-37A247DCF042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2018273-1C50-43F3-802D-37A247DCF042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C1E9A36-D091-40DB-9505-1042CC9E7D18} = {CD16F9A1-CCEF-4A04-868E-B3CC72953192}
+		{B2018273-1C50-43F3-802D-37A247DCF042} = {CD16F9A1-CCEF-4A04-868E-B3CC72953192}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5B71C623-17E0-4DAF-AC9D-F88F9113B728}
